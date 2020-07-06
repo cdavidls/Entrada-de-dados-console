@@ -1,0 +1,6 @@
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EntradaDados\EntradaDados\obj\Debug\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EntradaDados\EntradaDados\bin\Debug\EntradaDados.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EntradaDados\EntradaDados\bin\Debug\EntradaDados.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EntradaDados\EntradaDados\bin\Debug\EntradaDados.pdb
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EntradaDados\EntradaDados\obj\Debug\EntradaDados.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\EntradaDados\EntradaDados\obj\Debug\EntradaDados.pdb
